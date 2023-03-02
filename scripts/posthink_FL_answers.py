@@ -30,3 +30,4 @@ for string in pos_answer:
         total_count += word_count
 
 print("The total time a variation of positiv i s mentioned is:", total_count)
+
