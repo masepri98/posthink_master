@@ -31,3 +31,6 @@ for string in pos_answer:
 
 print("The total time a variation of positiv i s mentioned is:", total_count)
 
+df_ma = pd.read_csv("/Users/marieprimdahl/Documents/Studie/Programmer/GitHub/posthink_master/data/Marie_Study2_v7_January 23, 2023_06.04.csv")
+
+df_ma_2 = pd.read_csv("/Users/marieprimdahl/Documents/Studie/Programmer/GitHub/posthink_master/data/FL_study_math.csv")
